@@ -27,12 +27,13 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Sass](https://img.shields.io/badge/sass-gray?style=for-the-badge&logo=sass&logoColor=white&color=pink)
 
-<br>
-
-
+- **Back-End Development**:
+   ![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=white&color=gray)
+  
 - **Softwares**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-gray?style=for-the-badge&logo=eclipse&logoColor=white&color=darkblue)
 
 <br>
 
