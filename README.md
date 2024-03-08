@@ -55,7 +55,7 @@
 <br>
 <div align='left'>
 	
-<a href="https://www.linkedin.com/in/pablo-asensi-cano-405220219/">f</a>
+<a href="https://www.linkedin.com/in/pablo-asensi-cano-405220219/">![HTML5](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
 
  
 
