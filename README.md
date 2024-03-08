@@ -28,6 +28,7 @@
    ![Sass](https://img.shields.io/badge/sass-gray?style=for-the-badge&logo=sass&logoColor=white&color=pink)
 
 - **Back-End Development**:
+
    ![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=white&color=gray)
   
 - **Softwares**:
