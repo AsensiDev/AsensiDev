@@ -6,11 +6,12 @@
 
 <br>
 
-- A passionate Web Developer
-- Going gym at spare time
-- Currently finiching my programming studies
-- 
-- 
+<p>A passionate Web Developer</p>
+<p>Going gym at spare time</p>
+<p>Currently finishing mu programming studies</p>
+<p></p>
+<p></p>
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
