@@ -7,9 +7,9 @@
 <br>
 
 <p>👩‍💻 A passionate Web Developer</p>
-<p>💪 Going gym at spare time</p>
-<p>👨‍🎓 Currently finishing mu programming studies</p>
-<p>3️⃣Pillars: discipline, constant learning and hard work</p>
+<p>🏋️ Going gym at spare time</p>
+<p>👨‍🎓 Currently finishing my programming studies</p>
+<p>💪 Pillars: discipline, constant learning and hard work</p>
 <p></p>
 
 <br><br>
