@@ -6,10 +6,10 @@
 
 <br>
 
-<p>👩‍💻 A passionate Web Developer</p>
-<p>🏋️ Going gym at spare time</p>
-<p>👨‍🎓 Currently finishing my programming studies</p>
-<p>💪 Pillars: discipline, constant learning and hard work</p>
+<p>1️⃣ A passionate Web Developer</p>
+<p>2️⃣ Going gym at spare time</p>
+<p>3️⃣ Currently finishing my programming studies</p>
+<p>4️⃣ Pillars: discipline, constant learning and hard work</p>
 <p></p>
 
 <br><br>
