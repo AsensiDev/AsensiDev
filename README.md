@@ -10,7 +10,7 @@
 <p>2️⃣	Currently finishing my programming business practices</p>
 <p>3️⃣ 	Pillars: discipline, constant learning and hard work</p>
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
