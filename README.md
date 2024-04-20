@@ -1,4 +1,10 @@
 <h1 align="center"><b>Hi , I'm Pablo Asensi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align='center'>
+	
+<a href="https://www.linkedin.com/in/pablo-asensi-cano-405220219/">![linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
+<a href="https://www.youtube.com/channel/UCQQl7WNMScHD6tvP36J2KmA">![linkedin](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube)</a>
+
+</div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -43,20 +49,11 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Personal Portfolio </b>
-<br>
-
-<div align="center">
-	<p>News soon</p>
-</div>
-
-<br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 	
-<a href="https://www.linkedin.com/in/pablo-asensi-cano-405220219/">![HTML5](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
+<a href="https://www.linkedin.com/in/pablo-asensi-cano-405220219/">![linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
 
 </div>
 
