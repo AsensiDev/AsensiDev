@@ -45,7 +45,9 @@
 
 - **Currently Learning**:
 
-  ![PHP](https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php&logoColor=white&color=blue)
+  ![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
+  ![REACT](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
+  ![NODE.JS](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br>
 
