@@ -2,7 +2,9 @@
 <div align='center'>
 	
 <a href="https://www.linkedin.com/in/pablo-asensi-cano-405220219/">![linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
-<a href="https://www.youtube.com/channel/UCQQl7WNMScHD6tvP36J2KmA">![linkedin](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube)</a>
+<a href="https://www.youtube.com/channel/UCQQl7WNMScHD6tvP36J2KmA">![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube)</a>
+<a href="https://www.youtube.com/channel/UCQQl7WNMScHD6tvP36J2KmA">![youtube](https://img.shields.io/youtube/channel/subscribers/UCQQl7WNMScHD6tvP36J2KmA)</a>
+
 
 </div>
 
