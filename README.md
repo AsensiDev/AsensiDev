@@ -41,7 +41,6 @@
 - **Softwares**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Eclipse](https://img.shields.io/badge/Eclipse-gray?style=for-the-badge&logo=eclipse&logoColor=white&color=darkblue)
     ![Github](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
     ![Git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=white)
 
