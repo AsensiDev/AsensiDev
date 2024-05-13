@@ -44,9 +44,10 @@
 
 - **Currently Learning**:
 
-  ![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
   ![REACT](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
   ![NODE.JS](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
+  ![TYPESCRIPT](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+  ![TAILWIND](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br>
 
