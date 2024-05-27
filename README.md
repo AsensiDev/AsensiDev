@@ -25,14 +25,14 @@
 
 <p align="center">   
     
-- **Front-End Development**:
+- **Front-End**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Sass](https://img.shields.io/badge/sass-gray?style=for-the-badge&logo=sass&logoColor=white&color=pink)
 
-- **Back-End Development**:
+- **Back-End**:
 
    ![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=white&color=gray)
   
