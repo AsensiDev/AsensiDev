@@ -2,6 +2,11 @@
 <div align='center'>
 	
 <a href="https://www.linkedin.com/in/pablo-asensi-cano-405220219/">![linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
+<a href="https://www.youtube.com/channel/UCQQl7WNMScHD6tvP36J2KmA">![youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&color=red)</a>
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCQQl7WNMScHD6tvP36J2KmA">
+
+
+
 
 
 </div>
@@ -31,6 +36,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Sass](https://img.shields.io/badge/sass-gray?style=for-the-badge&logo=sass&logoColor=white&color=pink)
+   ![TAILWIND](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 - **Back-End**:
 
@@ -47,7 +53,7 @@
   ![REACT](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
   ![NODE.JS](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
   ![TYPESCRIPT](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-  ![TAILWIND](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  
 
 <br>
 
