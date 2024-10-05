@@ -35,8 +35,10 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![REACT](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
    ![Sass](https://img.shields.io/badge/sass-gray?style=for-the-badge&logo=sass&logoColor=white&color=pink)
    ![TAILWIND](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  
 
 - **Back-End**:
 
@@ -50,7 +52,7 @@
 
 - **Currently Learning**:
 
-  ![REACT](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
+  
   ![NODE.JS](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
   ![TYPESCRIPT](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
   
