@@ -31,7 +31,6 @@
 <p align="center">   
     
 - **Front-End**:
-
    
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,27 +39,25 @@
    ![Sass](https://img.shields.io/badge/sass-gray?style=for-the-badge&logo=sass&logoColor=white&color=pink)
    ![TAILWIND](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
   
-
 - **Back-End**:
 
    ![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=white&color=gray)
    ![MongoDB](https://img.shields.io/badge/mongo%20-%20green?style=for-the-badge&logo=mongodb&logoColor=white)
    ![NODE.JS](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
    ![TYPESCRIPT](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-
-
+  ![EXPRESS](https://img.shields.io/badge/express-%20green?style=for-the-badge&logo=express&logoColor=white)
   
 - **Softwares**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Github](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black)
     ![Git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=white)
-
+    ![n8n](https://img.shields.io/badge/n8n%20-%20red?style=for-the-badge&logo=n8n&logoColor=white)
+    ![make](https://img.shields.io/badge/make%20-%20purple?style=for-the-badge&logo=make&logoColor=white)
+  			
 - **Currently Learning**:
 
-  
-  
-  
+   ![python](https://img.shields.io/badge/python%20-%20yellow%20?style=for-the-badge&logo=python&logoColor=white&color=blue)
 
 <br>
 
