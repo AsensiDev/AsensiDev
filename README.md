@@ -44,6 +44,9 @@
 - **Back-End**:
 
    ![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=white&color=gray)
+  ![MongoDB](https://img.shields.io/badge/mongo%20-%20green?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
   
 - **Softwares**:
 
