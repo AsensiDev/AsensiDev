@@ -44,7 +44,9 @@
 - **Back-End**:
 
    ![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=white&color=gray)
-  ![MongoDB](https://img.shields.io/badge/mongo%20-%20green?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/mongo%20-%20green?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![NODE.JS](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
+   ![TYPESCRIPT](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 
   
@@ -57,8 +59,7 @@
 - **Currently Learning**:
 
   
-  ![NODE.JS](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
-  ![TYPESCRIPT](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+  
   
 
 <br>
