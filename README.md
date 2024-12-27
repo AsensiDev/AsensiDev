@@ -6,9 +6,6 @@
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCQQl7WNMScHD6tvP36J2KmA">
 
 
-
-
-
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -17,9 +14,9 @@
 
 <br>
 
-<p>1️⃣	A passionate Web Developer</p>
-<p>2️⃣	To know more about me you can see my <a href="https://pabloasensi.netlify.app/" target="_blank">Personal Porfolio</a></p>
-<p>3️⃣ 	Pillars: discipline, constant learning and hard work</p>
+<p>1️⃣	Web Developer | MERN Stack - TypeScript - Tailwind</p>
+<p>2️⃣	AI developer | Automations - Llms - Chatbots with AI</p>
+<p>3️⃣ 	To know more about me you can see my <a href="https://pabloasensi.netlify.app/" target="_blank">Personal Porfolio</a></p>
 
 <br>
 
